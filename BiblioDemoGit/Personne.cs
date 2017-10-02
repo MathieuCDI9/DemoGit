@@ -8,7 +8,11 @@ namespace BiblioDemoGit
 {
     public class Personne
     {
+
+
         //-------------------------------- Déclaration des propriétés de la classe ---------------------
+
+        public string Nom;
 
         #region Propriétés
         private string Nom;
